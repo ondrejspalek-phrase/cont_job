@@ -1,5 +1,5 @@
 {
     "sentence1": "This is a first sentence.",
     "sentence2": "And here is another one, so that it has more segments.",
-    "sentence3": "And yet another sentence and hopefully also a segment."
+    "sentence3": "The text in the third sentence is replaced to verify aggregated wordcount."
   }
